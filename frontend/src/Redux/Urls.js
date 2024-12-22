@@ -1,7 +1,7 @@
 
 
 
-const baseUrl = "http://localhost:3000"
+const baseUrl = "https://blogapp-t.onrender.com"
 export default baseUrl
 
 
