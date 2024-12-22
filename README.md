@@ -67,8 +67,8 @@ BlogApp/
 │   ├── package.json
 │
 └── README.md
-
-##  Installation**
+## Project Structure
+## Installation
 Prerequisites
 Make sure you have the following installed:
 
