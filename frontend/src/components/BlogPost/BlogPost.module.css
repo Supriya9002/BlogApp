@@ -1,0 +1,83 @@
+
+.blogPage{
+    height: auto;
+    width: 80%;
+    /* border: 5px solid red; */
+    margin: 2.5rem auto;
+    display: flex;
+    flex-direction: column;
+    /* gap: .5rem; */
+    background-color: whitesmoke;
+    border-radius: 9px;
+    overflow: hidden;
+}
+.blogHeadAc{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.blogActions{
+    height: auto;
+    width: auto;
+    margin-left: 1rem;
+    margin-top: .5rem;
+    display: flex;
+    flex-direction: row;
+    /* background-color: red; */
+    gap: 1rem;
+}
+.blogMeta{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+.blogSummary{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    /* margin-top: .5rem; */
+}
+.blogContent{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+}
+.blogTitle{
+    margin-top: 1rem;
+    font-weight: 900;
+    color: blueviolet;
+}
+.blogAuthor{
+    color: rgb(99, 99, 99);
+}
+.blogDate{
+    color: rgb(99, 99, 99);
+}
+
+.editButton{
+    height: .6 rem;
+    width: 4rem;
+    border: 2px solid #237ADE;
+    border-radius: 4px;
+    background-color: #F0F3F7;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #237AE3;
+}
+.deleteButton{
+    height: .6 rem;
+    width: 4rem;
+    border: 2px solid red;
+    border-radius: 4px;
+    background-color: #F0F3F7;
+    font-size: 1rem;
+    font-weight: bold;
+    color: red;
+}
+.close{
+    height: 2.5rem;
+    width: 2.5rem;
+}

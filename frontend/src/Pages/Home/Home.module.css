@@ -1,0 +1,35 @@
+
+.postListComtainer{
+    height: auto;
+    width: 70%;
+    /* border: 2px solid red; */
+    /* background-color: blueviolet; */
+    margin: 2.3rem auto;
+}
+.blogHeader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 65%;
+    margin: auto;
+}
+.blogHeader span{
+    font-size: 1.5rem;
+    font-weight: bolder;
+    color: rgb(27, 25, 25);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.blogHeader button{
+    height: 1.1 rem;
+    width: 7rem;
+    border: 2px solid #237ADE;
+    border-radius: 4px;
+    background-color: #F0F3F7;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #237AE3;
+}
+.headtext{
+    text-decoration: none;
+    color: #237AE3;
+}
